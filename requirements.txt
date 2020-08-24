@@ -2,6 +2,7 @@ pydub
 srt
 pywav
 pydub
+speech_recognition
 google-cloud-storage
 google-cloud-speech
 cachetools==4.0.0
